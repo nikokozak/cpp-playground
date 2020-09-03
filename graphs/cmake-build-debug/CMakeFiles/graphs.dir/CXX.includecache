@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/nikokozak/learn/cpp/algos/graphs/main.cpp
+iostream
+-
+unordered_map
+-
+unordered_set
+-
+vector
+-
+tuple
+-
+stdexcept
+-
+
